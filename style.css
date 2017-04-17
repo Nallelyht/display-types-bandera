@@ -1,0 +1,10 @@
+div {
+	font-family: verdana;
+	height: 50px;
+	background-color: yellow;
+
+}
+.diferente{
+	background-color: deeppink;
+	border: 1px solid;
+}
