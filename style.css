@@ -2,9 +2,12 @@ div {
 	font-family: verdana;
 	height: 50px;
 	background-color: yellow;
+	margin-top: 30px;
+	padding: 30px;
+    border: 1px solid;
+	
 
 }
 .diferente{
 	background-color: deeppink;
-	border: 1px solid;
 }
