@@ -3,9 +3,8 @@ div {
 	font-family: verdana;
 	background-color: yellow;
     margin: 5px;
-    padding: 10px
+    padding: 50px
 }
 .diferente{
-    display: inline;
 	background-color: deeppink;
 }
